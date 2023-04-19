@@ -1,4 +1,4 @@
-# vdian-doc-ai
+# llama-doc-ai
 base `openai` `llama_index`
 
 ### env prepare
