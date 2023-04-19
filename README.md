@@ -1,6 +1,6 @@
 # llama-doc-ai
-base `openai` `llama_index`
-
+base `openai` `llama_index`,
+support markdown.
 ### env prepare
 ```angular2html
 export OPENAI_API_KEY = xx
