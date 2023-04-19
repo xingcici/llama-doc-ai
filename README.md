@@ -34,5 +34,5 @@ notice : after refresh index need restart server
 
 4. python main.py
 
-blind on port 8082 🚀
+binding port 8082 🚀
 ```
